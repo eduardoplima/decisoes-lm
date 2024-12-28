@@ -1,0 +1,127 @@
+"IdTipo","codigo","descricao","periodicidade","codigo_camara","assunto_padrao","titulo_padrao_detalhe_pauta","Natureza","Processo_Administrativo","Tipo_Complemento_Processo","ProcessoEletronico","ProcessoEletronicoTce","ativo","EnviadopelaInternet","Complexidade","idClassificacaoProcesso","RespostaComunicacao","PodeSolicitarAutuacao","PrioridadeOrdemProcessoSetor"
+98,ACO,ACOMPANHAMENTO                                    , ,,ACOMPANHAMENTO DE [...],,,,2,S,S,0,,B,5,,S,3
+1,ADM,PROCESSOS ADMINISTRATIVOS                         , ,"3",PROCESSOS ADMINISTRATIVOS,,P,S,4,S,S,1,,B,24,,S,3
+93,ADS,ANÁLISE DE DADOS DO SIAI                          , ,,"ANÁLISE DE DADOS DO SIAI, REFERENTE AO [PERÍODO] DE 201X.",,,,2,S,S,0,,B,2,,S,3
+133,AGE,ACOMP. DE ATOS DE GESTÃO                          ,,,ACOMPANHAMENTO DE(...).,,P,,2,S,S,1,,B,5,N,S,3
+100,AGF,ANÁLISE DE GESTÃO FISCAL                          , ,,"ANÁLISE DA GESTÃO FISCAL NOS TERMOS DA LRF, REFERENTE AO [...] BIMESTRE DE 20[..].",,,,2,S,S,0,,B,5,,S,3
+104,AGI,AGRAVO                                            , ,,AGRAVO EM FACE DE DESPACHO PROFERIDO NOS AUTOS DO PROCESSO Nº [...],,,,2,N,N,0,,B,28,S,,3
+132,AGO,ACOMP. DE ATOS DE GOVERNO                         ,,,ACOMPANHAMENTO DE(...).,,P,,2,S,S,1,,B,5,N,S,3
+116,AOP,AUDITORIA OPERACIONAL                             ,,,AUDITORIA OPERACIONAL DE(...).,,P,,2,,,1,,B,34,N,S,3
+2,APO,APOSENTADORIA                                     , ,"3",APRECIAÇÃO DA APOSENTADORIA CONCEDIDA AO(À) SERVIDOR(A) (...).,EX-SEGURADO,P,,3,S,S,1,,B,4,,,3
+3,APP,APOSENTADORIA DAS PREFEITURAS                     , ,"3",APOSENTADORIA DAS PREFEITURAS,,,,2,S,S,0,,B,,,,3
+101,APR,APURAÇÃO DE RESPONSABILIDADE                      , ,,"APURAÇÃO DE RESPONSABILIDADE, REFERENTE A [...].",,P,,2,S,S,1,,B,5,,S,3
+4,ASS,ADMISSÃO                                          , ,"3",APRECIAÇÃO DE REGISTRO DO ATO DE ADMISSÃO,,P,,2,S,S,0,,B,4,,,3
+96,AUD,AUDITORIA                                         , ,,AUDITORIA EM [...],,,,2,S,S,0,,B,5,,S,3
+5,AUX,AUXILIO FUNERAL                                   , ,,AUXILIO FUNERAL,,,S,2,,,0,,B,,,,3
+6,BAN,AUTORIZAÇÃO P/ ENVIO EXTRATO                      , ,,AUTORIZAÇÃO PARA BANCOS ENVIAR EXTRATO BANCARIO VIA MEIO MAGNÉTICO ,,D,,2,,,1,,B,,,,3
+7,BGE,PRESTAÇÃO DE CONTAS ANUAL                         ,A,,PRESTAÇÃO DE CONTAS ANUAL,,,,2,S,S,0,,B,2,,,3
+8,BLC,BALANCETE                                         ,M,,BALANCETE ,,,,2,S,S,0,,B,2,,,3
+127,CEM,CONTRAT. PARA EMPREGO PÚBLICO                     ,,,APRECIAÇÃO DA CONTRATAÇÃO PARA EMPREGO PÚBLICO DO(A) SENHOR(A) (...).,,P,,2,S,S,1,,B,4,N,,3
+134,CFM,AUDITORIA DE CONFORMIDADE                         ,,,AUDITORIA DE CONFORMIDADE DE (...).,,P,,2,S,S,1,,B,5,N,S,3
+124,CGE,CONTAS DE GESTÃO                                  ,A,,"PRESTAÇÃO DE CONTAS ANUAIS DE GESTÃO DE (...), ",,P,,2,S,S,1,,B,2,,S,3
+90,CIP,CRONOGRAMA DE IMPLEMENTAÇÃO                       ,,,CRONOGRAMA DE IMPLEMENTAÇÃO   ,,,,2,S,S,0,,B,25,,,3
+9,CMP,COMP. DE PAGAMENTO                                , ,,COMPROVANTE DE PAGAMENTO DO RECOLHIMENTO DE MULTA E/OU DÉBITO REFERENTE À INTIMAÇÃO Nº [...],,,,2,S,S,0,,B,30,S,,3
+136,CNT,CONTENCIOSO                                       ,,,"PROCESSO Nº (...), REFERENTE A (...).",,P,,2,S,S,1,,B,23,N,,3
+10,CNV,CONVÊNIO                                          , ,,CONVÊNIO,,,,2,,,0,,B,2,,,3
+122,COB,COBRANÇA                                          , , ,"FATURA REFERENTE AO (...), REF. AO PROCESSO Nº ....",,D,,2,S,S,1,,B,32,,S,3
+11,COM,COMUNICAÇÃO                                       , ,,COMUNICAÇÃO,,,S,2,,,0,,B,,,,3
+12,CON,CONSULTA                                          , ,,FORMULAÇÃO DE CONSULTA SOBRE [...],,P,,2,S,S,1,,B,20,,,3
+13,COP,COMPENSAÇÃO                                       , ,,VALOR A COMPENSAR,,,,2,,,0,,B,,,,3
+85,CPA,COPA                                              , ,"3",COPA DO MUNDO,,,,,,,0,,B,,,,3
+14,CRE,CRÉDITOS                                          , ,,CRÉDITOS,,,,2,,,0,,B,,,,3
+15,CSP,CREDITO SUPLEMENTAR                               , ,,CREDITO SUPLEMENTAR,,,,2,,,0,,B,,,,3
+16,CTR,CONTRATO                                          , ,,CONTRATO ,,,,2,N,N,0,,B,2,,,3
+95,CTT,CONTRATOS TEMPORÁRIOS                             , ,"3",APRECIAÇÃO DA CONTRATAÇÃO TEMPORÁRIA DO(A) SENHOR(A) (...).,,P,,2,S,S,1,,B,4,,,3
+17,CTV,CARTA CONVITE                                     , ,,CARTA CONVITE,,,,1,,,0,,B,2,,,3
+18,CVP,CONCESSÃO DE VANTAGEM PESSOAL                     , ,,CONCESSÃO DE VANTAGEM PESSOAL,,,,2,,,0,,B,,,,3
+19,DCD,DOCUMENTAÇÃO COMPR. DE DESPESA                    , ,,DOCUMENTAÇÃO COMPROBATÓRIA DE DESPESA DOS MESES DE,,,,2,,,0,,B,2,,,3
+20,DEF,DEFESA                                            , ,,DOCUMENTO(S) REFERENTE(S) À CITAÇÃO Nº [] DO PROCESSO Nº [],,,,2,S,S,0,,B,31,S,,3
+21,DEN,DENÚNCIA                                          , ,"3",DENÚNCIA SOBRE [...],Denunciado,P,,2,S,S,1,,B,14,,,1
+22,DEV,DEVOLUÇÃO DE CONTRIBUIÇÃO                         , ,"3",DEVOLUÇÃO DE CONTRIBUIÇÃO ,,,,2,,,0,,B,,,,3
+23,DLC,DISPENSA DE LICITAÇÃO                             , ,,DISPENSA DE LICITAÇÃO,,,,1,,,0,,B,2,,,3
+24,DLG,DILIGÊNCIA                                        , ,"3",DOCUMENTO(S) REFERENTE(S) À NOTIFICAÇÃO Nº [...] DO PROCESSO Nº [...],,,,2,S,S,0,,B,33,S,,3
+25,DOC,DOCUMENTO                                         , ,,DOCUMENTO,,D,,2,S,S,1,,B,32,,S,3
+105,DOT,PETIÇÃO                                           , ,,PETIÇÃO,,D,,2,N,N,1,,B,32,,,3
+26,DSF,DISQUETE SITUAÇÃO FUNCIONAL                       , ,"1","DISQUETE DA SITUAÇÃO FUNCIONAL CONF.
+OFÍCIO CIRCULAR 007/99-PPC",,,,2,,,0,,B,,,,3
+103,EMD,EMBARGO DE DECLARAÇÃO                             , ,,"EMBARGOS DE DECLARAÇÃO EM FACE DO(A) ACÓRDÃO/DECISÃO Nº [...], PROFERIDO(A) NOS AUTOS DO PROCESSO Nº [...]",,,,2,N,N,0,,B,28,S,,3
+27,EXE,EXECUÇÃO                                          , ,,EXECUÇÃO DA DECISÃO PROFERIDA NOS AUTOS DO PROCESSO Nº [...],,P,,2,S,S,1,,B,23,,,3
+120,FCO,CONCURSO PÚB / SELEÇÃO SIMPLIF                    ,,,APRECIAÇÃO DA LEGALIDADE DE CONCURSO PÚBLICO / SELEÇÃO SIMPLIFICADA,,P,,2,S,S,1,,B,35,,S,3
+28,FES,FUNDO ESTADUAL DE EDUCACAO                        ,M,,FUNDO ESTADUAL DE EDUCACAO,,,,2,,,0,,B,,,,3
+135,FIN,AUDITORIA FINANCEIRA                              ,,,AUDITORIA FINANCEIRA DE (...).,,P,,2,S,S,1,,B,5,N,S,3
+29,FMS,FUNDO MUNICIPAL DE SAUDE                          , ,"1", ,,,,2,,,0,,B,,,,3
+89,FQM,FOLHA DE PESSOAL                                  ,M,,FOLHA DE PAGAMENTO E QUADRO FUNCIONAL DE ACORDO COM A RESOLUÇÃO 030/2012 ,,D,,2,S,S,1,1,B,29,,,3
+30,FUN,FUNDEF/FUNDEB                                     ,A,,BALANCETE DO FUNDEF  ,, ,,2,,,0,,B,2,,,3
+31,FUP,BALANCETE DO FUNDEF (PGJ)                         ,A,,BALANCETE DO FUNDEF  REMETIDO PELA PGJ,,,,2,,,0,,B,,,,3
+32,IES,INSPEÇÃO ESPECIAL                                 , ,,INSPEÇÃO ESPECIAL,,,,2,,,0,,B,,,,3
+33,IEX,INSPEÇÃO EXTRAORDINÁRIA                           , ,,INSPEÇÃO EXTRAORDINÁRIA,,,,2,,,0,,B,,,,3
+34,INA,INADIMPLÊNCIA                                     ,A,,INADIMPLÊNCIA,,,,2,S,S,0,,B,23,,,3
+35,INC,INCORPORAÇÃO                                      , ,,INCORPORAÇÃO,,,,2,,,0,,B,,,,3
+36,IND,INDICAÇÃO DE OUTRO RESPONSÁVEL                    , ,,INDICAÇÃO ,,,,2,,,0,,B,,,,3
+37,INE,INEXIGIBILIDADE DE LICITAÇÃO                      , ,,INEXIGIBILIDADE DE LICITAÇÃO,,,,2,,,0,,B,2,,,3
+129,INM,INATIVAÇÃO DE MILITARES                           ,,,APRECIAÇÃO DA INATIVAÇÃO DO SENHOR(A) (...),,P,,2,S,S,1,,B,4,N,,3
+38,INP,INSPEÇÃO                                          , ,,INSPEÇÃO EM [...],,P,,2,S,S,1,,B,5,,S,3
+39,INS,INSCRIÇÃO DE DEPENDENTES                          , ,,INSCRIÇÃO DE DEPENDENTES,,,,2,,,0,,B,,,,3
+40,INV,INVENTÁRIO DE MATERIAIS                           , ,,INVENTÁRIO DE MATERIAIS,,,,2,S,S,0,,B,32,,,3
+41,LDO,LEI DE DIRETRIZES ORÇAMENTÁRIA                    ,A,,"LEI DE DIRETRIZES ORÇAMENTÁRIAS,",,D,,2,S,S,1,,B,26,,,3
+97,LEV,LEVANTAMENTO                                      , ,,LEVANTAMENTO DE [...],,P,,2,S,S,1,,B,5,,S,3
+42,LIC,LICITAÇÕES                                        , ,,LICITAÇÕES,,,,1,,,0,,B,2,,,3
+115,LOP,LEVANTAMENTO NAT. OPERACIONAL                     ,,,LEVANTAMENTO DE NATUREZA OPERACIONAL DE [...],,,,2,,,0,,B,34,,,3
+43,LRF,PRESTAÇÃO DE CONTAS - LRF                         , ,,"RELATÓRIO RESUMIDO DA EXECUÇÃO ORÇAMENTÁRIA, REFERENTE AO (...) BIMESTRE DE 201X.",,D,,2,S,S,1,1,B,27,,,3
+44,LTS,LICENÇA P/ TRATAMENTO DE SAÚDE                    , ,,LICENÇA P/ TRATAMENTO DE SAÚDE,,,,2,,,0,,B,,,,3
+138,MDJ,MANDADO JUDICIAL                                  ,,,"PROCESSO Nº (...), REFERENTE A (...).",,D,,2,S,S,1,,B,36,N,,3
+99,MON,MONITORAMENTO                                     , ,,MONITORAMENTO DE [...],,P,,2,S,S,1,,B,5,,S,3
+117,MOP,MONITORAMENTO NAT OPERACIONAL                     ,,,MONITORAMENTO DE NATUREZA OPERACIONAL DE [...],,,,2,,,0,,B,34,,,3
+126,NCE,NOMEAÇÃO PARA CARGO EFETIVO                       ,,,APRECIAÇÃO DA NOMEAÇÃO PARA CARGO EFETIVO DO(A) SENHOR(A) (...).,,P,,2,S,S,1,,B,4,N,,3
+45,NOM,NOMEAÇÃO                                          , ,"3",NOMEAÇÃO ,,,,3,S,S,0,,B,,,,3
+121,NOT,NOTA FISCAL                                       , , ,REFERENTE A NOTA FISCAL DE Nº ...,,D,,2,S,S,1,1,B,32,,,3
+46,OFC,OFICIO                                            , , ,OFÍCIO Nº [...],,D,,2,S,S,1,,B,32,,,3
+47,ORC,LEI DE ORÇAMENTÁRIA ANUAL                         ,A,,"LEI ORÇAMENTÁRIA ANUAL,",,D,,2,S,S,1,,B,26,,,3
+106,OTS,OUTROS                                            , ,, ,,,,2,S,S,0,,B,5,,,3
+48,OUT,OUTROS                                            , ,,OUTROS,,P,S,2,,,1,,B,23,,S,3
+49,PAG,PAGAMENTOS                                        , ,,PAGAMENTOS,,,,4,,,0,,B,2,,,3
+51,PCC,PRESTAÇÃO DE CONTAS - CONVÊNIO                    , ,"3",PRESTAÇÃO DE CONTAS - CONVÊNIO ,,,,2,,,0,,B,2,,,3
+52,PCF,PRESTAÇÃO CONTAS  SUP. FUNDOS                     , ,,PRESTAÇÃO DE CONTAS DE SUPRIMENTO DE FUNDOS,,,,2,,,0,,B,2,,,3
+53,PCM,PRESTAÇÃO DE CONTAS MENSAL                        ,M,"1",PRESTAÇÃO DE CONTAS MENSAL ,,,,2,,,0,,B,2,,,3
+54,PCO,PRESTAÇÃO DE CONTAS                               , ,,PRESTAÇÃO DE CONTAS,,,,2,,,0,,B,2,,,3
+55,PCS,PREST. CONTAS. SEC. PMNATAL/93                    , ,"1","PREST. DE CONTAS MENSAIS DAS SECRETARIAS DA PREF. MUNICIPAL DE NATAL (  DIGITE AQUI O ÓRGAO , MES E ANO )",,,,2,,,0,,B,2,,,3
+128,PDR,PROVIMENTO DERIVADO                               ,,,APRECIAÇÃO DO PROVIMENTO DERIVADO EM CARGO PÚBLICO DO(A) SENHOR(A) (...).,,P,,2,S,S,1,,B,4,N,,3
+56,PEN,PENSÃO                                            , ,"3",APRECIAÇÃO DE CONCESSÃO DE PENSÃO,Ex-Segurado,P,,3,S,S,1,,B,4,,,3
+130,PEP,PENSÃO PARLAMENTAR                                ,,,APRECIAÇÃO DA PENSÃO PARLAMENTAR CONCEDIDA AO(À) SENHOR(A) (...),,P,,3,S,S,1,,B,4,N,,3
+102,PER,PEDIDO DE RECONSIDERAÇÃO                          , ,,PEDIDO DE RECONSIDERAÇÃO REFERENTE AO PROCESSO Nº [...],,,,2,N,N,0,,B,28,S,,3
+57,PES,RELAÇAO DE PESSOAL                                , ,,RELAÇAO DE PESSOAL,,D,,2,,,1,,B,,,,3
+139,PET,PETIÇÃO                                           ,,,PREENCHIMENTO CONFORME PEDIDO APRESENTADO NA PETIÇÃO (...).,,D,,2,S,S,1,,B,32,N,,3
+88,PFA,PLANO DE FISCALIZAÇÃO ANUAL                       ,A,,PLANO DE FISCALIZAÇÃO ANUAL,PLANO DE FISCALIZAÇÃO ANUAL - AUDITORIA,P,S,,S,S,1,,B,24,,,3
+58,PPA,PLANO PLURIANUAL                                  ,A,"1",PLANO PLURIANUAL REFERENTE AO QUADRIÊNIO,,D,,2,S,S,1,,B,26,,,3
+59,PPC,PEDIDO DE PARCELAMENTO                            , ,,PEDIDO DE PARCELAMENTO DE MULTA REFERENTE AO PROCESSO Nº [...],,,,2,S,S,0,,B,30,S,,3
+60,PPR,PEDIDO DE PRORROGAÇÃO DE PRAZO                    , ,,PEDIDO DE PRORROGAÇÃO DE PRAZO PARA [...],,,,2,S,S,0,,B,30,S,,3
+91,PPT,PROCEDIMENTO PREPARATÓRIO                         ,,,PROCEDIMENTO PREPARATÓRIO REFERENTE A [...],,P,,,,,1,,B,23,,S,3
+107,PRE,PEDIDO DE REEXAME                                 ,,,"PEDIDO DE REEXAME EM FACE DO PARECER Nº [...], PROFERIDO NOS AUTOS DO PROCESSO Nº ",,,,2,S,S,0,,B,30,S,,3
+61,PSE,PRESTAÇÃO DE SERVIÇOS                             , ,,PRESTAÇÃO DE SERVIÇOS,,,,2,,,0,,B,,,,3
+137,RAD,REQUERIMENTO ADMINISTRATIVO                       ,,"3",REQUERIMENTO DE/PARA (...).,,D,,2,S,S,1,,B,30,N,,3
+62,RAF,RELATÓRIO ANUAL DE FUNDEF                         ,A,,RELATÓRIO ANUAL DO FUNDEF DO ANO DE ,,,,2,,,0,,B,,,,3
+131,RBN,REVISÃO DE BENEFÍCIO                              ,,,APRECIAÇÃO DA REVISÃO DO BENEFÍCIO CONCEDIDO AO(À) SENHOR(A) (...).,,P,,3,S,S,1,,B,4,N,,3
+63,REC,RECURSO - OUTROS                                  , ,,DOCUMENTO(S) REFERENTE(S) À INTIMAÇÃO Nº [...] DO PROCESSO Nº [...],,,,2,S,S,0,,B,30,S,,3
+64,REL,CONTAS DO CHEFE DO EXECUTIVO                      ,A,,"CONTAS DO CHEFE DO PODER EXECUTIVO DO ESTADO DO RIO GRANDE DO NORTE,",,P,,2,S,S,1,,B,2,,S,3
+65,REP,REPRESENTAÇÃO                                     , ,,REPRESENTAÇÃO PARA [...],,P,,2,S,S,1,,B,14,,S,2
+66,REQ,REQUERIMENTO                                      , ,,REQUERIMENTO DE/PARA [...],,,,2,,,0,,B,,,,3
+109,RER,RECURSO DE REVISTA                                ,,,RECURSO DE REVISTA NOS AUTOS DO PROCESSO Nº ,,,,2,S,S,0,,B,30,S,,3
+67,RES,RELATÓRIO ESPECIAL                                , ,,RELATÓRIO ESPECIAL,,,,2,,,0,,B,,,,3
+68,RET,RESTITUIÇÃO                                       , ,,VALOR A RESTITUIR,,,,2,,,0,,B,,,,3
+69,REV,PEDIDO DE REVISÃO                                 , ,,PEDIDO DE REVISÃO EM FACE DA DECISÃO Nº [...]. PROFERIDA PELO TCE/RN,,P,,2,S,S,1,,B,22,,,3
+70,RFU,RELATORIO ANUAL DE FUNDEF                         ,A,,RELATORIO ANUAL DE FUNDEF  ,,,,2,,,0,,B,,,,3
+71,RLT,RELATORIO                                         , ,,RELATORIO,,,,2,,,0,,B,,,,3
+125,RPC,RESPOSTA À COMUNICAÇÃO                            ,,,"RESPOSTA À COMUNICAÇÃO TIPO (...) Nº (...), CONSTANTES NOS AUTOS DO PROCESSO Nº (...).",,D,,2,S,S,1,,B,32,S,,3
+72,RPG,RESTOS A PAGAR                                    ,A,,RESTOS A PAGAR ,,,,2,S,S,0,,B,2,,,3
+73,RRE,RELATÓRIO DE REMUNERAÇÃO                          ,A,,RELATÓRIO DE REMUNERAÇÃO ,,,,2,,,0,,B,5,,,3
+74,RSC,RESCISAO DE CONTRATO                              , ,,RESCISAO DE CONTRATO,,,,2,,,0,,B,,,,3
+86,RTC,RELATÓRIO TÉCNICO CONCLUSIVO                      ,,,RELATÓRIO TÉCNICO CONCLUSIVO,,,,1,S,S,0,1,B,32,,,3
+140,SAD,SOLICITAÇÃO DE APURAÇÃO DE DANO                   ,,,SOLICITAÇÃO DE APURAÇÃO DE DANO,,P,,2,S,S,1,,B,23,,,3
+108,SFI,SOLICITAÇÃO DE FISCALIZAÇÃO                       ,,,DOCUMENTO(S) REFERENTES À SOLICITAÇÃO Nº [...],,,,2,S,S,0,,B,32,,,3
+75,SIE,SIT.FUNC.DO PODER EXECUTIVO                       ,A,,SIT.FUNC.DO PODER EXECUTIVO ,,,,2,,,0,,B,,,,3
+76,SIT,SITUAÇÃO FUNC.PODER LEGISL.                       ,A,"1",SITUAÇÃO FUNC.PODER LEGISL. ,,,,2,,,0,,B,,,,3
+77,SOL,REQUERIMENTO                                      , ,"3",REQUERIMENTO DE/PARA [...],,,,2,S,S,0,,B,30,,,3
+78,TAD,TERMO ADITIVO                                     , ,,TERMO ADITIVO,,,,1,,,0,,B,2,,,3
+92,TAG,TERMO DE AJUSTAMENTO DE GESTÃO                    ,,,TERMO DE AJUSTAMENTO DE GESTÃO Nº [...],Termo de Ajustamento de Gestão,P,,,S,S,1,,,23,,,3
+94,TOE,TOMADA DE CONTAS ESPECIAL                         , ,,"TOMADA DE CONTAS ESPECIAL, EM ATENDIMENTO À DECISÃO Nº (...) DO PLENO DO TRIBUNAL",,P,,1,S,S,1,,B,3,,S,3
+79,TOM,TOMADA DE CONTAS                                  ,,,TOMADA DE CONTAS REFERENTE A [...],,P,,1,S,S,1,,B,3,,S,3
